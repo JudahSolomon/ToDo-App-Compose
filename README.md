@@ -1,14 +1,9 @@
-##To-Do App created with jetpack compose
+# To-Do App created with jetpack compose
 
-##Library used
+# Library used
 Room
 Kotlin Coroutines
 Fragmanet & Fragment navigation
-
-##
-
-
-
 
 
 
